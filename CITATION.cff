@@ -1,0 +1,23 @@
+# =============================================================================
+# Citation information for TNBC IIR Score
+# =============================================================================
+
+cff-version: 1.2.0
+message: "If you use this work, please cite it as:"
+authors:
+  - family-names: "Ch"
+    given-names: "Bhaskararao"
+    alias: "Baashi"
+title: "TNBC IIR Score: An Integrated Immunotherapy Readiness Biomarker for Triple-Negative Breast Cancer"
+version: 1.0.0
+date-released: 2026-08-08
+url: "https://github.com/Baashi27-ai/TNBC-IIR-Score-Immunotherapy"
+license: MIT
+keywords:
+  - TNBC
+  - breast-cancer
+  - immunotherapy
+  - biomarker
+  - multi-omics
+  - immune-checkpoint
+  - precision-medicine
