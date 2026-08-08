@@ -1,0 +1,42 @@
+﻿# Large data files (NEVER commit these)
+*.tsv
+*.csv
+*.maf
+*.rda
+*.rds
+*.txt
+*.xlsx
+*.gz
+*.zip
+
+# Results and data folders
+results/
+data/
+inputs/
+outputs/
+
+# Phase expression data
+Phase_III_Immunotherapy_Prediction/inputs/expression/
+Phase_I_Immune_Deconv/inputs/expression/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
