@@ -1,0 +1,23 @@
+MHC-I ESCAPE ANALYSIS SUMMARY
+========================================
+Dataset: TCGA TNBC-like (n=215)
+
+MHC-I Escape Groups:
+  No_escape: 125
+  Partial_escape: 90
+
+HLA LOH Proxy (DROPPED):
+  Low: 6
+  High: 1
+  NOTE: Only ~7 patients had HLA structural variants.
+
+IIR Groups:
+  High_ICB_ready: 72
+  Intermediate: 71
+  Poor_ICB_ready: 72
+
+4-Quadrant Groups (IIR × Escape):
+  High_ICB_ready + No_escape: 67
+  High_ICB_ready + Partial_escape: 5
+  Poor_ICB_ready + No_escape: 20
+  Poor_ICB_ready + Partial_escape: 52

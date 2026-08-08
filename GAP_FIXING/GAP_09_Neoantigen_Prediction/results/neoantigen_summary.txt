@@ -1,0 +1,15 @@
+NEOANTIGEN PREDICTION SUMMARY
+========================================
+Dataset: TCGA TNBC-like
+Samples: 241
+Neoantigen-relevant variants: 14780
+Neoantigen score range: 0.6931 - 7.0353
+
+Correlations (Spearman):
+  Neoantigen vs ImmuneScore: r = -0.2616, p = 0.0000
+  Neoantigen vs IIR: r = 0.0338, p = 0.6014
+
+Neoantigen by APOBEC group:
+  APOBEC_high: median = 4.2905, n = 122
+  APOBEC_low: median = 3.8067, n = 119
+  Mann-Whitney p = 0.0014

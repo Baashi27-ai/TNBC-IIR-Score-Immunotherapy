@@ -1,0 +1,3 @@
+model	HR	pvalue	HR_low	HR_high
+ImmuneScore_continuous	0.772376432007641	0.864207107373322	0.040022975007208	14.9055724271725
+immune_group_categorical		0.880999486661642		

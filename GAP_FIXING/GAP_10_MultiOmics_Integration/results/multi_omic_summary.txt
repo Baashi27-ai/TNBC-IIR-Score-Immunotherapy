@@ -1,0 +1,7 @@
+MULTI-OMIC ESCAPE SCORE SUMMARY
+========================================
+Samples: 215
+
+Escape Groups:
+  MHC-I alone: 107
+  Multi-omic: 105

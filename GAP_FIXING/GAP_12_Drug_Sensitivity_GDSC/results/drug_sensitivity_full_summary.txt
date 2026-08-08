@@ -1,0 +1,15 @@
+FULL DRUG SENSITIVITY CORRELATION SUMMARY
+========================================
+Cell lines: 901
+Drugs analyzed: 6790
+Significant correlations (p < 0.05): 450 (6.6%)
+Significant after FDR: 1
+
+Top 5 drugs (negative correlation):
+  BRD:BRD-K11900042-001-14-4: r=-0.1741, p=0.0001
+  BRD:BRD-K93258693-001-17-3: r=-0.1602, p=0.0002
+  BRD:BRD-A53037217-001-02-0: r=-0.1412, p=0.0009
+  BRD:BRD-K46435977-003-11-1: r=-0.1371, p=0.0013
+  BRD:BRD-K71926323-001-13-8: r=-0.1330, p=0.0017
+
+Immune-modulating drugs: 6790

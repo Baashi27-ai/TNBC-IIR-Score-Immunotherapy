@@ -1,0 +1,18 @@
+TMB STANDARDIZATION SUMMARY
+========================================
+MAF file: D:/Baashi/TNBC_project/data_raw/tcga/mutations/tcga_mutations_TNBCproxy.tsv
+Total variants: 19375
+Non-silent variants: 14804
+Exome size: 38 Mb
+Hypermutation threshold: 20 mut/Mb
+Hypermutated samples removed: 2
+
+TMB Distribution (n=174):
+  Min: 0.03 mut/Mb
+  Q1: 0.93 mut/Mb
+  Median: 1.51 mut/Mb
+  Q3: 2.24 mut/Mb
+  Max: 19.42 mut/Mb
+
+Published TNBC TMB range: median ~1.5-2.0 mut/Mb
+Our TMB median: 1.51 mut/Mb

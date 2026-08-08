@@ -1,0 +1,19 @@
+PHASE VI CORRELATIONS — STANDARDIZED TMB
+========================================
+TMB median: 1.34 mut/Mb
+TMB range: 0.03 - 19.42 mut/Mb
+Samples: 239
+
+Key Correlations (Spearman):
+  TMB vs ImmuneScore: r = -0.2586, p = 0.0001
+  TMB vs PD1/PD-L1: r = -0.0421, p = 0.5171
+
+TMB by Immune Subtype (median):
+  BLIS: 1.66
+  IM: 2.00
+  BLIA: 1.11
+
+TMB by IIR Group (median):
+  High_ICB_ready: 1.55
+  Intermediate: 1.11
+  Poor_ICB_ready: 1.88

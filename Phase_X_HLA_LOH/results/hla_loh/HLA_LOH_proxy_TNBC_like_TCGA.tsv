@@ -1,0 +1,8 @@
+submitter_id	HLA_total_variants	HLA_damaging_variants	HLA_damaging_prop	HLA-B	HLA-C	HLA-E	HLA-F	HLA_LOH_proxy_group
+TCGA-AN-A0FL	1	0	0	0	0	0	0	Low
+TCGA-BH-A18V	1	0	0	0	0	0	0	Low
+TCGA-D8-A147	1	0	0	0	0	0	0	Low
+TCGA-D8-A1JL	1	0	0	0	0	0	0	Low
+TCGA-D8-A1XQ	1	1	1	0	1	0	0	High
+TCGA-D8-A27M	1	0	0	0	0	0	0	Low
+TCGA-E9-A22G	1	0	0	0	0	0	0	Low

@@ -1,0 +1,17 @@
+DECISION CURVE ANALYSIS SUMMARY
+========================================
+Dataset: METABRIC TNBC (n=320)
+Outcome: 5-year mortality (105 events)
+
+Net benefit at key thresholds:
+      10%: IIR=0.2535, PD-L1=0.2535, TMB=0.2535, Treat All=0.2170
+      20%: IIR=0.1586, PD-L1=0.1609, TMB=0.1602, Treat All=0.0781
+      30%: IIR=0.0795, PD-L1=0.0777, TMB=0.0402, Treat All=-0.1004
+      40%: IIR=-0.0021, PD-L1=-0.0010, TMB=0.0000, Treat All=-0.3385
+      50%: IIR=-0.0062, PD-L1=-0.0031, TMB=0.0000, Treat All=-0.6719
+
+AUC-NB:
+  IIR: 0.1846
+  PD-L1: 0.1781
+  ImmuneScore: 0.1786
+  TMB: 0.1551

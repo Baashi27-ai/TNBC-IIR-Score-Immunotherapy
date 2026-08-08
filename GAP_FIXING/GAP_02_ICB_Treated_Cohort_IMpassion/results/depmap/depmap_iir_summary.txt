@@ -1,0 +1,22 @@
+DEPMAP IIR SCORE SUMMARY
+========================================
+Cell lines: 1673
+Genes used: 28/28
+
+IIR_score distribution:
+  Min: 0.0000
+  Q1: 0.3979
+  Median: 0.4046
+  Q3: 0.4154
+  Max: 1.0000
+
+IIR group distribution:
+  Low: 558
+  Mid: 557
+  High: 558
+
+Component correlations with IIR_score:
+  ImmuneScore_norm: 0.8044
+  PD1_signature: 0.7677
+  Immune_Exclusion_index: -0.4952
+  DPI_norm: 0.4850

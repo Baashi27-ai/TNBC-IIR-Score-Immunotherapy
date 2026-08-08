@@ -1,0 +1,12 @@
+GSE91061 VALIDATION SUMMARY
+========================================
+Dataset: GSE91061 (Melanoma, PD-1/CTLA-4 treated)
+Samples: 51
+IIR median: 0.0815
+High group: 29
+Low group: 22
+
+ORR Validation:
+  Odds ratio: 0.7083
+  p-value: 0.7281
+  ROC AUC: 0.4561

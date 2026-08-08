@@ -1,0 +1,4 @@
+model	term	HR	HR_low	HR_high	pvalue
+M1_escape_adjusted_continuous	escape_adjusted_ICB_score	0.93699101154596	0.773803168307743	1.13459364302933	0.505029137257045
+M2_escape_groups_vs_Intermediate	escape_group_relevelEscape_adjusted_Poor_ICB_candidate	1.66166101144588	0.56309480446686	4.90346793303055	0.35769377136205
+M2_escape_groups_vs_Intermediate	escape_group_relevelEscape_adjusted_High_ICB_candidate	0.753170385050833	0.198596935430861	2.85636647759404	0.676836477739844

@@ -1,0 +1,3 @@
+Cohort	Samples	Events	Event_Rate	Events_per_Component	IIR_HR	IIR_p	Significant
+TCGA	197	29	14.7%	4.8	0.77	0.86	No
+METABRIC	320	168	52.5%	28.0	0.689	0.0028	Yes

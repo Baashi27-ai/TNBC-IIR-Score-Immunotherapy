@@ -1,0 +1,14 @@
+DRUG SENSITIVITY CORRELATION SUMMARY
+========================================
+Cell lines: 901
+Drugs analyzed: 100
+Significant correlations: 6
+
+Top 5 drugs (negative correlation):
+  BRD:BRD-A00218260-001-03-4: r=-0.0904, p=0.0345
+  BRD:BRD-A07870296-001-07-4: r=-0.0898, p=0.0358
+  BRD:BRD-A04327189-003-03-3: r=-0.0830, p=0.0557
+  BRD:BRD-A00827783-001-24-6: r=-0.0811, p=0.0574
+  BRD:BRD-A07395371-003-10-0: r=-0.0786, p=0.0655
+
+Immune-modulating drugs: 100
